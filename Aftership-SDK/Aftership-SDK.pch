@@ -1,0 +1,16 @@
+//
+//  Aftership-SDK.pch
+//  Aftership
+//
+//  Created by Cp CHING on 10/3/16.
+//  Copyright © 2016 Cp CHING. All rights reserved.
+//
+
+#ifdef __OBJC__
+
+#import <AFNetworking/AFNetworking.h>
+#import <Mantle/Mantle.h>
+
+#import "NSMutableDictionary+aftership.h"
+
+#endif
