@@ -23,6 +23,9 @@ NSLog(@"Reset time: %i", resetTime);
 NSLog(@"Limit: %i", limit);
 NSLog(@"Remaining: %i", remaining);
 
+//  Rate limit handling
+}];
+
 ```
 
 Get tracking
