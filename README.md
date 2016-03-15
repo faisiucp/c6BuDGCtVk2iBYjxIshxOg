@@ -1,6 +1,9 @@
 Aftership iOS SDK
 =============
 
+## Status
+[![Build Status](https://travis-ci.org/faisiucp/c6BuDGCtVk2iBYjxIshxOg.svg?branch=master)](https://travis-ci.org/faisiucp/c6BuDGCtVk2iBYjxIshxOg)
+
 ## Note
 
 The project requires [AFNetworking](https://github.com/AFNetworking/AFNetworking) and [Mantle](https://github.com/Mantle/Mantle).
