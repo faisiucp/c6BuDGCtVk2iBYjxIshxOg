@@ -1,5 +1,5 @@
 language: objective-c
 osx_image: xcode7.2
-xcode_workspace: Aftership.workspace
+xcode_workspace: Aftership.xcworkspace
 xcode_scheme: Aftership-SDK
 xcode_sdk: iphonesimulator9.2
